@@ -1,0 +1,10 @@
+<svg width="139" height="278" viewBox="0 0 139 278" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Define a linear gradient with top-to-bottom direction -->
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="50%" stop-color="purple" />
+      <stop offset="100%" stop-color="pink" />
+    </linearGradient>
+  </defs>
+  <path d="M139 0C120.746 0 102.671 3.59535 85.807 10.5807C68.9427 17.5662 53.6195 27.8048 40.7122 40.7122C27.8048 53.6195 17.5661 68.9427 10.5807 85.807C3.59534 102.671 -7.97896e-07 120.746 0 139C7.97896e-07 157.254 3.59534 175.329 10.5807 192.193C17.5662 209.057 27.8048 224.381 40.7122 237.288C53.6195 250.195 68.9428 260.434 85.807 267.419C102.671 274.405 120.746 278 139 278L139 139L139 0Z" fill="url(#grad3)"/>
+</svg>
